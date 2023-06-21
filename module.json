@@ -19,18 +19,11 @@
     },
     "packs": [
         {
-            "name": "module-scenes",
-            "label": "Module Scenes",
-            "path": "./packs/scenes.db",
-            "entity": "Scene",
-            "type": "Scene"
-        },
-        {
-            "name": "module-journal-entries",
-            "label": "Module Journal Entries",
-            "path": "./packs/journal-entries.db",
-            "entity": "JournalEntry",
-            "type": "JournalEntry"
+            "name": "Adventure",
+            "label": "Adventure",
+            "path": "./packs/pull-the-other-one.db",
+            "entity": "Adventure",
+            "type": "Adventure"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/Dr-Feargood/pull-the-other-one/main/module.json",
