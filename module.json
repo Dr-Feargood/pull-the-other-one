@@ -38,6 +38,6 @@ If you use it, give me a shout-out on how it went.
             "type": "JournalEntry"
         }
     ],
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/Dr-Feargood/pull-the-other-one/main/module.json",
     "download": ""
 }
